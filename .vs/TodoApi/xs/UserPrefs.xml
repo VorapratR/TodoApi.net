@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{ACDE1D2E-242F-449E-BEAB-A3F8FD5076E6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Program.cs">
     <Files>
-      <File FileName="TodoApi/Models/TodoItem.cs" Line="6" Column="2" />
-      <File FileName="TodoApi/Models/TodoContext.cs" Line="14" Column="2" />
-      <File FileName="TodoApi/Startup.cs" Line="29" Column="54" />
-      <File FileName="TodoApi/Controllers/WeatherForecastController.cs" Line="39" Column="1" />
-      <File FileName="TodoApi/Controllers/TodoItemsController.cs" Line="69" Column="16" />
-      <File FileName="TodoApi/Program.cs" Line="16" Column="1" />
+      <File FileName="TodoApi/Models/TodoItem.cs" Line="6" Column="39" />
+      <File FileName="TodoApi/Models/TodoContext.cs" />
+      <File FileName="TodoApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="TodoApi/Controllers/TodoItemsController.cs" Line="19" Column="40" />
+      <File FileName="TodoApi/Program.cs" Line="15" Column="10" />
+      <File FileName="TodoApi/Models/TodoItemDTO.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -125,3 +125,8 @@
 /Users/millenniumfalcon/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.dll
 /Users/millenniumfalcon/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.pdb
 /Users/millenniumfalcon/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.genruntimeconfig.cache
+/Users/millenniumfalcon/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/millenniumfalcon/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/millenniumfalcon/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/millenniumfalcon/Projects/TodoApi/TodoApi/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/millenniumfalcon/Projects/TodoApi/TodoApi/obj/Debug/netcoreapp3.1/TodoApi.MvcApplicationPartsAssemblyInfo.cs
